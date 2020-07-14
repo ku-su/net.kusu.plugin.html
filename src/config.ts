@@ -12,7 +12,7 @@ import en from './locales/en-US';
 
 export const config: ILibraryConfig = {
   name: '@html library',
-  libraryId: 'net.kusu.html',
+  libraryId: 'net.kusu.plugin.html',
   version: '0.0.1',
   pluginConfigs: [
     {
